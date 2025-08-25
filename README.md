@@ -1,3 +1,6 @@
+Qui il link del Report:
+https://lookerstudio.google.com/reporting/f598a957-c44a-475f-bf00-87e0293a3793
+
 📊 Analisi Storica dello Share del Festival di Sanremo (1987–2023)
 Questo progetto analizza e visualizza l’andamento dello share televisivo del Festival di Sanremo dal 1987 al 2023, utilizzando tecniche di pulizia, arricchimento e visualizzazione dei dati.
 ________________________________________
